@@ -1,2 +1,2 @@
 # House-price-prediction
-House price prediction done using Machine Learning Algorithm Linear regression.
+House price prediction of Mumbai made using Machine Learning Algorithm Linear regression.
